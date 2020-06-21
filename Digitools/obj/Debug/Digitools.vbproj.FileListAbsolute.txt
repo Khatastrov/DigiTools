@@ -1,0 +1,14 @@
+C:\Users\Titi\source\repos\Digitools\Digitools\bin\Debug\Digitools.exe.config
+C:\Users\Titi\source\repos\Digitools\Digitools\bin\Debug\Digitools.exe
+C:\Users\Titi\source\repos\Digitools\Digitools\bin\Debug\Digitools.pdb
+C:\Users\Titi\source\repos\Digitools\Digitools\bin\Debug\Digitools.xml
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.vbprojAssemblyReference.cache
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.Form1.resources
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.Resources.resources
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.vbproj.GenerateResource.cache
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.vbproj.CoreCompileInputs.cache
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.exe
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.xml
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.pdb
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.Form2.resources
+C:\Users\Titi\source\repos\Digitools\Digitools\obj\Debug\Digitools.Form3.resources
