@@ -1,7 +1,8 @@
 # DigiTools
-Première approche de Visual Basic / Visual Studio
+
+##Première approche de Visual Basic / Visual Studio
 =====
 
-## Calculatrice
+### Calculatrice
 
-## Convertisseur de devises
+### Convertisseur de devises
